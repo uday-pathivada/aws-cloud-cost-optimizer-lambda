@@ -39,9 +39,20 @@ Business Process Automation: Streamline operations by automating repetitive task
 
 Scalability: Applications can seamlessly scale up or down based on workload.
 
+
+
 Cost Savings: Users incur costs only when their code runs, making it economical for sporadic workloads.
 
 # Disadvantages:
 
 Cold Start Latency: There may be delays when functions are invoked after a period of inactivity, affecting performance.
+
+
+# RESULTS: 
+
+![stale_snapshot](https://github.com/user-attachments/assets/168a54f5-ad9a-4ac8-a528-9bc4f7a2d401)
+
+![snapshot_deleted](https://github.com/user-attachments/assets/997ef366-3560-496e-8e48-ebd60f53b391)
+
+
 
