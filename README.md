@@ -5,6 +5,7 @@ In this example, we will create a Lambda function to identify EBS snapshots that
 # Description:
 The Lambda function retrieves all EBS snapshots owned by the account ("self") and also gets a list of active EC2 instances (running and stopped). For each snapshot, it checks if the associated volume (if it exists) is not associated with any active instance. If it finds a stale snapshot, it deletes it, effectively optimizing storage costs.
 
+![process](https://github.com/user-attachments/assets/639f4e43-c3d8-4e96-8697-174c19ff1660)
 
 
 # Introduction to AWS Lambda Serverless Computing
